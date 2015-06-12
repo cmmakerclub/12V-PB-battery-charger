@@ -13958,6 +13958,10 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <sheets>
 <sheet>
 <plain>
+<text x="-40.64" y="40.64" size="1.778" layer="91">+Vin</text>
+<text x="124.46" y="33.02" size="1.778" layer="91">+Battery</text>
+<text x="25.4" y="-10.16" size="1.778" layer="91">Trim for Vout = 13.8V</text>
+<text x="66.04" y="68.58" size="1.778" layer="91">Parallel 4 LM317T  Iout = 1.5Ax4 = 6A max</text>
 </plain>
 <instances>
 <instance part="IC1" gate="1" x="38.1" y="38.1"/>
